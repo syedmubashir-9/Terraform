@@ -1,0 +1,1 @@
+In this lab i created an S3 bucket, and an SNS topic. Subscribed the bucket to the topic. Created an output file as well.
