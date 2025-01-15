@@ -1,0 +1,1 @@
+Created an EIP, SG and associated it with an instacne that we created.
