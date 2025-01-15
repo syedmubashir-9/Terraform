@@ -1,1 +1,0 @@
-Tried creating RDS instances with terraform using terrafrom.auto.tfvars file but was unable to do so because of limited permissions.
