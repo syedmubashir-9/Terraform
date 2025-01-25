@@ -1,1 +1,0 @@
-In this lab I createdto create an AMI from EC2 Instance using Terraform and launching new EC2 Instance using that AMI. 
