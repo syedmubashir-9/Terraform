@@ -1,1 +1,0 @@
-Created an instance in AWS and destroyed it using terraform. 

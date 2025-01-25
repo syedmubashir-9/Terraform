@@ -1,1 +1,0 @@
-Configured an EC2 instance with EIP, SG and a key pair. Then logged in and configured IIS and later verified it.

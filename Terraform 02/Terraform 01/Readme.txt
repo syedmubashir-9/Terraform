@@ -1,1 +1,0 @@
-Created an user in AWS and configure it in AWS CLI. Then used this script to create a VPC.
